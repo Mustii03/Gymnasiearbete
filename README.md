@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Page about IT!
 
-You can use the [editor on GitHub](https://github.com/Mustii03/Gymnasiearbete/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mustii03/Gymnasiearbete/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Ever since i was a kid i've dreamed of owning my own computer. I have always loved video games espcially when I had my Xbox 360. We came from a poor neighboor hood and at the time my mom got hit in a trafic Accident. The doctors didn't say much exepct that she probably won't make it. I was always scared and playing video games and watching videos on the internet made me escape reality and it was the best times for me. I used to love school at that time it was like a routin wake up, go to school and after school visit mom in the hospital and after that go home and play video games. Being young means no responsibility and that meaning I could do almost anything that i wanted.
